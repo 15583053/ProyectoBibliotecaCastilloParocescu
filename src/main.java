@@ -113,9 +113,7 @@ public class main {
                                 String af1 = sc1a.nextLine();
                                 if (af1 == "Privado"){
                                     System.out.println("Dime que usuario quiere alquilar un libro");
-                                    Privado Privado1 = sc1a.nextLine();
-                                    Privado priv1 = new Privado();
-                                    Privado1.Alquilar();
+
 
 
 
